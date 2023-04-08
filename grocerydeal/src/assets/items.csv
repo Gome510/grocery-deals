@@ -1,0 +1,31 @@
+Brand,Item ID,Item Name,Price
+Acme,1001,Apples,2.99
+Acme,1002,Bananas,1.99
+Acme,1003,Oranges,3.49
+Acme,1004,Carrots,1.29
+Acme,1005,Potatoes,2.49
+Acme,1006,Onions,1.99
+Acme,1007,Cucumbers,0.99
+Acme,1008,Tomatoes,2.99
+Acme,1009,Broccoli,1.99
+Acme,1010,Cauliflower,2.49
+Bayside,2001,Salmon,12.99
+Bayside,2002,Tuna,8.99
+Bayside,2003,Shrimp,14.99
+Bayside,2004,Crab,18.99
+Bayside,2005,Lobster,24.99
+Bayside,2006,Clams,6.99
+Bayside,2007,Oysters,10.99
+Bayside,2008,Mussels,7.99
+Bayside,2009,Squid,9.99
+Bayside,2010,Octopus,11.99
+Gourmet,3001,Steak,15.99
+Gourmet,3002,Pork chops,10.99
+Gourmet,3003,Chicken breasts,7.99
+Gourmet,3004,Lamb chops,22.99
+Gourmet,3005,Turkey,12.99
+Gourmet,3006,Duck,19.99
+Gourmet,3007,Quail,16.99
+Gourmet,3008,Venison,26.99
+Gourmet,3009,Bison,23.99
+Gourmet,3010,Rabbit,18.99
