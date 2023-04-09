@@ -13,3 +13,5 @@ function StoreItem(){
         </a>
     )
 }
+
+export default StoreItem
