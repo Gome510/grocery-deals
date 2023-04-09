@@ -1,11 +1,11 @@
 import React from 'react'
 //import './SideBar.css'
-
+import StoreList from './StoreList'
 
 function SideBar() {
     return(
         <div className='SideBar'>
-            <h1>sidebar</h1>
+            <StoreList />
         </div>
     )
 }
