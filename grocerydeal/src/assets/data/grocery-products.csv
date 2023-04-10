@@ -1,0 +1,32 @@
+Product Name,Price,Grocery Store ID
+Apples,2.99,GS001
+Bananas,1.99,GS001
+Oranges,3.49,GS001
+Carrots,1.29,GS001
+Potatoes,2.49,GS001
+Onions,1.99,GS001
+Cucumbers,0.99,GS001
+Tomatoes,2.99,GS001
+Broccoli,1.99,GS001
+Cauliflower,2.49,GS001
+Salmon,12.99,GS002
+Tuna,8.99,GS002
+Shrimp,14.99,GS002
+Crab,18.99,GS002
+Lobster,24.99,GS002
+Clams,6.99,GS002
+Oysters,10.99,GS002
+Mussels,7.99,GS002
+Squid,9.99,GS002
+Octopus,11.99,GS002
+Steak,15.99,GS003
+Pork chops,10.99,GS003
+Chicken breasts,7.99,GS003
+Lamb chops,22.99,GS003
+Turkey,12.99,GS003
+Duck,19.99,GS003
+Quail,16.99,GS003
+Venison,26.99,GS003
+Bison,23.99,GS003
+Rabbit,18.99,GS003
+

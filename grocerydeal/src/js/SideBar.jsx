@@ -1,10 +1,12 @@
 import React from 'react'
-//import './SideBar.css'
+import '../scss/SideBar.css'
 import StoreList from './StoreList'
+import SearchBar from './SearchBar'
 
 function SideBar() {
     return(
         <div className='SideBar'>
+            <SearchBar />
             <StoreList />
         </div>
     )

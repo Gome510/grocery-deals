@@ -1,0 +1,9 @@
+.SideBar{
+    width:408px;
+    border:solid;
+    padding:1px;
+    height:100%;
+    /* display:flex; */
+    position:absolute;
+    orientation: vertical;
+}
