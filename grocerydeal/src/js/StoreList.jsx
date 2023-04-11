@@ -3,6 +3,8 @@ import '../scss/StoreList.css'
 import StoreItem from "./StoreItem";
 
 function StoreList() {
+    let stores = [];
+
     return (
         <div class="StoreList list-group" id="list-tab" role="tablist">
             

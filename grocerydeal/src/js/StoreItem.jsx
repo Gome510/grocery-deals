@@ -1,15 +1,15 @@
 import React from "react";
 
-function StoreItem(){
+function StoreItem(storeName, distance, hours, totalPrice,smallPrint, storeId){
     return(
-        <a href="#" class="list-group-item list-group-item-action active" data-bs-toggle="list"  role="tab" aria-current="true">
+        <a href="#" id={storeId} class="list-group-item list-group-item-action active" data-bs-toggle="list"  role="tab" aria-current="true">
             <div class="d-flex w-100 justify-content-between">
-                <h5 class="mb-1">Store Name</h5>
-                <small>Distance</small>
-                <small>Hours</small>
+                <h5 class="mb-1">{storeName}</h5>
+                <small>{distance}</small>
+                <small>{hours}</small>
             </div>
-            <p class="mb-1">Total Price</p>
-            <small>And some small print.</small>
+            <p class="mb-1">{totalPrice}</p>
+            <small>{smallPrint}</small>
         </a>
     )
 }
