@@ -1,17 +1,18 @@
 import React from "react";
 
-function StoreItem(storeName, distance, hours, totalPrice,smallPrint, storeId){
+function StoreItem(prop){
     return(
-        <a href="#" id={storeId} class="list-group-item list-group-item-action active" data-bs-toggle="list"  role="tab" aria-current="true">
+        <a href="#" id={prop.storeId} class="list-group-item list-group-item-action" data-bs-toggle="list"  role="tab" aria-current="false">
             <div class="d-flex w-100 justify-content-between">
-                <h5 class="mb-1">{storeName}</h5>
-                <small>{distance}</small>
-                <small>{hours}</small>
+                <h5 class="mb-1">{prop.storeName}</h5>
+                <small>total price</small>
             </div>
-            <p class="mb-1">{totalPrice}</p>
-            <small>{smallPrint}</small>
+            
+            <p class="mb-1">small text</p>
+            <small>{prop.hours}</small>
         </a>
     )
 }
+
 
 export default StoreItem

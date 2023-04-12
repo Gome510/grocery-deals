@@ -1,0 +1,21 @@
+[
+    {
+      "groceryStoreName": "ABC Market",
+      "groceryStoreId": "GS001",
+      "location": "123 Main St",
+      "hoursOfOperation": "Mon-Fri: 9am-8pm; Sat-Sun: 10am-6pm"
+    },
+    {
+      "groceryStoreName": "Seafood Plus",
+      "groceryStoreId": "GS002",
+      "location": "456 Ocean Ave",
+      "hoursOfOperation": "Mon-Sun: 10am-8pm"
+    },
+    {
+      "groceryStoreName": "Gourmet Groceries",
+      "groceryStoreId": "GS003",
+      "location": "789 High St",
+      "hoursOfOperation": "Mon-Fri: 8am-10pm; Sat: 9am-9pm; Sun: 10am-7pm"
+    }
+]
+  
